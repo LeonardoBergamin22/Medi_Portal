@@ -36,7 +36,7 @@ Aqui o usuario podera fazer o cadastro e login
 3. Tela de login
    Aqui o usuario fara o login
 
-   ![image](https://github.com/LeonardoBergamin22/Medi_Portal/assets/140442294/d412a1b2-cd7b-4e0c-90a0-ee13a788ac45)
+<img src="https://github.com/LeonardoBergamin22/Medi_Portal/assets/140442294/d412a1b2-cd7b-4e0c-90a0-ee13a788ac45" width="30%">
 
 
    4. Tela Home
